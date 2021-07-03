@@ -75,7 +75,7 @@ main{
    width: 100%;
    height:500px;
 }
-.espaço_email{
+.espaco_email{
    position: absolute;
    margin: 0% auto;
    height:60px;
@@ -88,7 +88,7 @@ main{
    border-color: black;
 }
 
-.espaço_email_vermelho{
+.espaco_email_vermelho{
    position: absolute;
    height:60px;
    right:615px;
@@ -121,7 +121,7 @@ h3{ font-size: 20px; text-align: center; color:white }
    h2{ font-size: 20px; text-align: center; color:white}
    h3{ font-size: 20px; text-align: center; color:white}
    
-   .espaço_email{
+   .espaco_email{
        position: static;
        height:40px;
        right:545px;
@@ -135,7 +135,7 @@ h3{ font-size: 20px; text-align: center; color:white }
     
    }
    
-   .espaço_email_vermelho{
+   .espaco_email_vermelho{
       position: absolute;
       height:40px;
       width:116px;
